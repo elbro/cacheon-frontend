@@ -85,5 +85,5 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for setup, style guide, and PR guidelin
 
 ## Community
 
-- Discord: [Cacheon](https://discord.gg/RGECbrRBPv)
+- Discord: [# ㄷ・cacheon・14](https://discord.com/channels/799672011265015819/1503393871172866098) ([Cacheon](https://discord.gg/RGECbrRBPv) server)
 - X: [@cacheon_ai](https://x.com/cacheon_ai)
