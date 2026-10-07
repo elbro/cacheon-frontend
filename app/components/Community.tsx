@@ -1,5 +1,6 @@
 import SectionHeader from './SectionHeader'
 import { Button } from '~/components/ui/button'
+import { COMMUNITY_DISCORD_URL } from '~/constants/links'
 
 function Icon({ id, size = 18 }: { id: string; size?: number }) {
   return (
@@ -18,7 +19,7 @@ export default function Community() {
         <div className="flex flex-wrap justify-center gap-3">
           <Button
             as="a"
-            href="https://discord.gg/RGECbrRBPv"
+            href={COMMUNITY_DISCORD_URL}
             target="_blank"
             rel="noopener noreferrer"
           >
