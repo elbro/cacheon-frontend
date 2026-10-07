@@ -11,7 +11,7 @@ export function baseOptions(): BaseLayoutProps {
     links: [
       {
         type: 'icon',
-        url: 'https://discord.com/invite/cacheon',
+        url: 'https://discord.gg/RGECbrRBPv',
         icon: <DiscordIcon size={16} />,
         text: 'Discord',
         label: 'Discord',

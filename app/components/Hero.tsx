@@ -98,7 +98,7 @@ export default function Hero() {
           <Button
             as="a"
             variant="secondary"
-            href="https://discord.gg/bittensor"
+            href="https://discord.gg/RGECbrRBPv"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -18,7 +18,7 @@ export default function Community() {
         <div className="flex flex-wrap justify-center gap-3">
           <Button
             as="a"
-            href="https://discord.gg/bittensor"
+            href="https://discord.gg/RGECbrRBPv"
             target="_blank"
             rel="noopener noreferrer"
           >

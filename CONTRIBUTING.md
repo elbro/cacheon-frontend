@@ -100,4 +100,4 @@ docs: update scoring page with new KL formula
 
 ## Questions
 
-Open a discussion on GitHub or reach out on the [Bittensor Discord](https://discord.gg/bittensor) in the Cacheon channel.
+Open a discussion on GitHub or reach out on the [Cacheon Discord](https://discord.gg/RGECbrRBPv).
