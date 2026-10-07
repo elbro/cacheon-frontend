@@ -17,12 +17,7 @@ export default function Community() {
         <SectionHeader align="center" eyebrow="Get involved" title="Join the community." />
 
         <div className="flex flex-wrap justify-center gap-3">
-          <Button
-            as="a"
-            href={COMMUNITY_DISCORD_URL}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <Button as="a" href={COMMUNITY_DISCORD_URL} target="_blank" rel="noopener noreferrer">
             <Icon id="icon-discord" />
             Discord
           </Button>
